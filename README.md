@@ -46,13 +46,6 @@ instead of 3.9 GB. It changes nothing for players. See
 [Saving memory](https://github.com/cmspam/rvclient-community-servers#saving-memory) for details and how to
 turn it off later (`RV_SLIM=off`).
 
-## Better bots
-
-Also on by default, through the same server image: battle royale bots look for players and chase them
-instead of standing still or jumping in place. See
-[Better bots](https://github.com/cmspam/rvclient-community-servers#better-bots-linux-on-by-default) for what
-changes and how to adjust or turn it off (`RV_BOTS=off`).
-
 ## Files
 
 | File | |
